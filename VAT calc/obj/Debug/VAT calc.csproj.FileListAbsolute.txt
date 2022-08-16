@@ -1,0 +1,10 @@
+D:\Изучение C#\Projects\VAT calc\VAT calc\bin\Debug\VAT calc.exe.config
+D:\Изучение C#\Projects\VAT calc\VAT calc\bin\Debug\VAT calc.exe
+D:\Изучение C#\Projects\VAT calc\VAT calc\bin\Debug\VAT calc.pdb
+D:\Изучение C#\Projects\VAT calc\VAT calc\obj\Debug\VAT_calc.Form1.resources
+D:\Изучение C#\Projects\VAT calc\VAT calc\obj\Debug\VAT_calc.Properties.Resources.resources
+D:\Изучение C#\Projects\VAT calc\VAT calc\obj\Debug\VAT calc.csproj.GenerateResource.cache
+D:\Изучение C#\Projects\VAT calc\VAT calc\obj\Debug\VAT calc.csproj.CoreCompileInputs.cache
+D:\Изучение C#\Projects\VAT calc\VAT calc\obj\Debug\VAT calc.exe
+D:\Изучение C#\Projects\VAT calc\VAT calc\obj\Debug\VAT calc.pdb
+D:\Изучение C#\Projects\VAT calc\VAT calc\obj\Debug\VAT calc.csproj.AssemblyReference.cache
